@@ -21,7 +21,7 @@
               <form method="post" action="{% url 'button'%}">
                 {% csrf_token %}
                 <li><input type="text" id="inputData" class="input_text" name="inputData"><li>
-                <li><button type="submit" src="static/img/save_button.png" id="saveButton" class="send" alt="Save"></li>
+                <li><button type="submit" id="saveButton" class="send" alt="Save"><img src="static/img/save_button.png" alt="send_button_img" id="send_button_img" style="height: 60%;"></button></li>
               </form>
             </ul>
             <br>
