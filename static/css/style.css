@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('path/to/inter.woff2') format('woff2'),
+         url('path/to/inter.woff') format('woff');
+    font-style: normal;
+  }
+
+body{
+    font-family: 'Inter', sans-serif;
+    background-color:#E9EDF0;
+    max-width:100%
+}
+
+main{
+    width: 49%;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    border: 2px solid; /* 線の太さと可視化 */
+    border-color:black;
+    border-radius: 20px;
+    padding:20px;
+}
+
+.logo{
+    display: flex;
+    list-style:none;
+    width: fit-content;
+    margin: auto;
+}
+
+li{
+    display: flex;
+    list-style:none;
+    width: fit-content;
+    margin: auto;
+    list-style:none;
+}
+
+.logo_img{
+    height:60x;
+    width: 60px;
+}
+.logo_text{
+    font-size:40px;
+    color:black;
+}
+
+.information_pass{
+    padding-top:10px;
+    font-size: 16px;
+    font-family:"inter";
+    color:#86868B;
+}
+
+.information_hard{
+    font-size:12px;
+    font-family:"inter";
+    font-weight: bold;
+    color:#86868B;
+}
+
+.form_group{
+    position:relative;
+    width: fit-content;
+    margin: auto;
+    display: flex;
+    padding-top:10px;
+}
+
+.connect{
+    border:none;
+    border-radius: 16px;
+    font-size:12px;
+    width:5em;
+    height:2.5em;
+    color:white;
+    background-color:#373737;
+    margin-right:3px;
+}
+
+.input_text {
+    border: none;
+    outline:none;
+    border-radius: 16px;
+    font-size:20px;
+    width: 16em;
+    height:1.5em;
+    color:white;
+    background-color:#373737;
+}
+
+.send {
+    position: absolute;
+    top:15px;
+    right:7px;
+    height: 22px;
+    width: 22px;
+    border: none;
+    border-radius:50%;
+}
+
+hr{
+    background-color:black;
+    height: 3px;
+    width: 100%;
+}
+
+.historyText{
+    font-size:25px;
+    color:black;
+}
+
+.savedList{
+    height:8em;
+    font-size: 14px;
+    font-family:"inter";
+    color:#86868B;
+    overflow-y: scroll;
+}
+
+footer{
+    font-size:23px;
+    position:absolute;
+    top:93%;
+    width:100%;
+}

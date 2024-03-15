@@ -1,0 +1,39 @@
+<!DOCTYPE_html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="static/css/style.css" />
+        <script src="static/js/serial.js"></script>
+    <title>YubiPass</title>
+    </head>
+    <body>
+      <main>
+        <ul class="logo">
+          <li><img src="static/img/YubiPass_logo.png" class="logo_img"></li>
+          <li class="logo_text">YubiPass</li>
+        </ul>
+        <div id="infoForm" class="form_group">
+          <label for="inputData"><p class="information_pass">あなただけのパスワードを作成します。
+            <p class="information_hard">ハードウェアを接続してください</label><br>
+            <ul class="form_group">
+              <li><button  onclick="onConnectButtonClick()" class="connect">connect</button></li>
+              <li><input type="text" id="inputData" class="input_text" name="inputData"><li>
+              <li><img src="static/img/save_button.png" id="saveButton" class="send" alt="Save"></li>
+            </ul>
+            <br>
+        </div>
+        <hr>
+        <div id="savedInfo" class="historyText">
+          <h2>Histry</h2>
+          <ul id="savedList" class="savedList"></ul>
+        </div>
+
+        <script src="static/js/cookie.js"></script>
+      </main>
+    </body>
+    <footer>
+      ©hogehoge
+    </footer>
+  </body>
+</html>
