@@ -338,503 +338,504 @@ def get_hash(url):
 
         # パスワード条件分岐
         if KariPass == 0:
-            Pass = hash_xx +"Yh4"
+            Pass = hash_xx +"1Xv"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 0.")
             print("Pass:" + Pass)
         elif KariPass == 1:
-            Pass = hash_xx +"Pk2"
+            Pass = hash_xx +"9Fe"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 1.")
             print("Pass:" + Pass)
         elif KariPass == 2:
-            Pass = hash_xx +"wN4"
+            Pass = hash_xx +"3Uq"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 2.")
             print("Pass:" + Pass)
         elif KariPass == 3:
-            Pass = hash_xx +"5Si"
+            Pass = hash_xx +"6Pm"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 3.")
             print("Pass:" + Pass)
         elif KariPass == 4:
-            Pass = hash_xx +"7Di"
+            Pass = hash_xx +"2Tz"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 4.")
             print("Pass:" + Pass)
         elif KariPass == 5:
-            Pass = hash_xx +"qS9"
+            Pass = hash_xx +"0Yb"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 5.")
             print("Pass:" + Pass)
         elif KariPass == 6:
-            Pass = hash_xx +"c2O"
+            Pass = hash_xx +"5Wi"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 6.")
             print("Pass:" + Pass)
         elif KariPass == 7:
-            Pass = hash_xx +"Gt1"
+            Pass = hash_xx +"8Jg"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 7.")
             print("Pass:" + Pass)
         elif KariPass == 8:
-            Pass = hash_xx +"U6f"
+            Pass = hash_xx +"4Mo"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 8.")
             print("Pass:" + Pass)
         elif KariPass == 9:
-            Pass = hash_xx +"Ae8"
+            Pass = hash_xx +"7Rh"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 9.")
             print("Pass:" + Pass)
         elif KariPass == 10:
-            Pass = hash_xx+"5Vb"
+            Pass = hash_xx+"1Nk"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 10.")
             print("Pass:" + Pass)
         elif KariPass == 11:
-            Pass = hash_xx +"zI5"
+            Pass = hash_xx +"9Xw"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 11.")
             print("Pass:" + Pass)
         elif KariPass == 12:
-            Pass = hash_xx +"Kr0"
+            Pass = hash_xx +"3Ch"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 12.")
             print("Pass:" + Pass)
         elif KariPass == 13:
-            Pass = hash_xx +"N5j"
+            Pass = hash_xx +"6Vt"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 13.")
             print("Pass:" + Pass)
         elif KariPass == 14:
-            Pass = hash_xx +"vY7"
+            Pass = hash_xx +"2Gd"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 14.")
             print("Pass:" + Pass)
         elif KariPass == 15:
-            Pass = hash_xx +"qC3"
+            Pass = hash_xx +"0Aq"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 15.")
             print("Pass:" + Pass)
         elif KariPass == 16:
-            Pass = hash_xx +"fU2"
+            Pass = hash_xx +"5Ya"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 16.")
             print("Pass:" + Pass)
         elif KariPass == 17:
-            Pass = hash_xx +"3mP"
+            Pass = hash_xx +"8Dp"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 17.")
             print("Pass:" + Pass)
         elif KariPass == 18:
-            Pass = hash_xx +"xB9"
+            Pass = hash_xx +"4Fu"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 18.")
             print("Pass:" + Pass)
         elif KariPass == 19:
-            Pass = hash_xx +"Ho0"
+            Pass = hash_xx +"7Om"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 19.")
             print("Pass:" + Pass)
         elif KariPass == 20:
-            Pass = hash_xx +"3Ds"
+            Pass = hash_xx +"1Hr"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 20.")
             print("Pass:" + Pass)
         elif KariPass == 21:
-            Pass = hash_xx +"rC4"
+            Pass = hash_xx +"9Lc"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 21.")
             print("Pass:" + Pass)
         elif KariPass == 22:
-            Pass = hash_xx +"t6A"
+            Pass = hash_xx +"3Wx"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 22.")
             print("Pass:" + Pass)
         elif KariPass == 23:
-            Pass = hash_xx +"j2W"
+            Pass = hash_xx +"6Ev"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 23.")
             print("Pass:" + Pass)
         elif KariPass == 24:
-            Pass = hash_xx +"eL7"
+            Pass = hash_xx +"2Kj"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 24.")
             print("Pass:" + Pass)
         elif KariPass == 25:
-            Pass = hash_xx +"Bc1"
+            Pass = hash_xx +"0Bs"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 25.")
             print("Pass:" + Pass)
         elif KariPass == 26:
-            Pass = hash_xx +"Mo9"
+            Pass = hash_xx +"5Zm"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 26.")
             print("Pass:" + Pass)
         elif KariPass == 27:
-            Pass = hash_xx +"gS8"
+            Pass = hash_xx +"8Qi"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 27.")
             print("Pass:" + Pass)
         elif KariPass == 28:
-            Pass = hash_xx +"w4Z"
+            Pass = hash_xx +"4Pi"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 28.")
             print("Pass:" + Pass)
         elif KariPass == 29:
-            Pass = hash_xx+"9nK"
+            Pass = hash_xx+"7Lt"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 29.")
             print("Pass:" + Pass)
         elif KariPass == 30:
-            Pass = hash_xx+"qU8"
+            Pass = hash_xx+"1Uw"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 30.")
             print("Pass:" + Pass)
         elif KariPass == 31:
-            Pass = hash_xx +"3Pa"
+            Pass = hash_xx +"9Fi"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 31.")
             print("Pass:" + Pass)
         elif KariPass == 32:
-            Pass = hash_xx+"Xd1"
+            Pass = hash_xx+"3Xb"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 32.")
             print("Pass:" + Pass)
         elif KariPass == 33:
-            Pass = hash_xx+"M8e"
+            Pass = hash_xx+"6Og"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 33.")
             print("Pass:" + Pass)
         elif KariPass == 34:
-            Pass = hash_xx+"hU4"
+            Pass = hash_xx+"2Rz"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 34.")
             print("Pass:" + Pass)
         elif KariPass == 35:
-            Pass = hash_xx+"tS7"
+            Pass = hash_xx+"OVq"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 35.")
             print("Pass:" + Pass)
         elif KariPass == 36:
-            Pass = hash_xx+"3jA"
+            Pass = hash_xx+"5Nd"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 36.")
             print("Pass:" + Pass)
         elif KariPass == 37:
-            Pass = hash_xx+"2Kz"
+            Pass = hash_xx+"8Ct"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 37.")
             print("Pass:" + Pass)
         elif KariPass == 38:
-            Pass = hash_xx+"Vw9"
+            Pass = hash_xx+"4Mp"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 38.")
             print("Pass:" + Pass)
         elif KariPass == 39:
-            Pass = hash_xx+"nO"
+            Pass = hash_xx+"7Ya"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 39.")
             print("Pass:" + Pass)
         elif KariPass == 40:
-            Pass = hash_xx+"XF"
+            Pass = hash_xx+"1Jk"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 40.")
             print("Pass:" + Pass)
         elif KariPass == 41:
-            Pass = hash_xx+"IB"
+            Pass = hash_xx+"9Gu"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 41.")
             print("Pass:" + Pass)
         elif KariPass == 42:
-            Pass = hash_xx+"RP"
+            Pass = hash_xx+"3Ho"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 42.")
             print("Pass:" + Pass)
         elif KariPass == 43:
-            Pass = hash_xx+"UC"
+            Pass = hash_xx+"6Wi"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 43.")
             print("Pass:" + Pass)
         elif KariPass == 44:
-            Pass = hash_xx+"LD"
+            Pass = hash_xx+"2Sq"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 44.")
             print("Pass:" + Pass)
         elif KariPass == 45:
-            Pass = hash_xx+"JO"
+            Pass = hash_xx+"0Fd"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 45.")
             print("Pass:" + Pass)
         elif KariPass == 46:
-            Pass = hash_xx+"KH"
+            Pass = hash_xx+"5Er"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 46.")
             print("Pass:" + Pass)
         elif KariPass == 47:
-            Pass = hash_xx+"EZ"
+            Pass = hash_xx+"8Zx"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 47.")
             print("Pass:" + Pass)
         elif KariPass == 48:
-            Pass = hash_xx+"KN"
+            Pass = hash_xx+"4Lb"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 48.")
             print("Pass:" + Pass)
         elif KariPass == 49:
-            Pass = hash_xx+"YS"
+            Pass = hash_xx+"7Cv"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 49.")
             print("Pass:" + Pass)
         elif KariPass == 50:
-            Pass = hash_xx+"MK"
+            Pass = hash_xx+"1Pi"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 50.")
             print("Pass:" + Pass)
         elif KariPass == 51:
-            Pass = hash_xx+"DC"
+            Pass = hash_xx+"9Tm"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 51.")
             print("Pass:" + Pass)
         elif KariPass == 52:
-            Pass = hash_xx+"MJ"
+            Pass = hash_xx+"3Sa"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 52.")
             print("Pass:" + Pass)
         elif KariPass == 53:
-            Pass = hash_xx+"XK"
+            Pass = hash_xx+"6Yc"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 53.")
             print("Pass:" + Pass)
         elif KariPass == 54:
-            Pass = hash_xx+"RL"
+            Pass = hash_xx+"2Dq"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 54.")
             print("Pass:" + Pass)
         elif KariPass == 55:
-            Pass = hash_xx+"GF"
+            Pass = hash_xx+"0Rh"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 55.")
             print("Pass:" + Pass)
         elif KariPass == 56:
-            Pass = hash_xx+"LR"
+            Pass = hash_xx+"5Kg"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 56.")
             print("Pass:" + Pass)
         elif KariPass == 57:
-            Pass = hash_xx+"SN"
+            Pass = hash_xx+"8Wj"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 57.")
             print("Pass:" + Pass)
         elif KariPass == 58:
-            Pass = hash_xx+"FM"
+            Pass = hash_xx+"4Bx"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 58.")
             print("Pass:" + Pass)
         elif KariPass == 59:
-            Pass = hash_xx +"BK"
+            Pass = hash_xx +"7Vu"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 59.")
             print("Pass:" + Pass)
         elif KariPass == 60:
-            Pass = hash_xx +"YC"
+            Pass = hash_xx +"1Gm"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 60.")
             print("Pass:" + Pass)
         elif KariPass == 61:
-            Pass = hash_xx +"JQ"
+            Pass = hash_xx +"9Pt"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 61.")
             print("Pass:" + Pass)
         elif KariPass == 62:
-            Pass = hash_xx +"RW"
+            Pass = hash_xx +"3Lz"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 62.")
             print("Pass:" + Pass)
         elif KariPass == 63:
-            Pass = hash_xx +"ZT"
+            Pass = hash_xx +"6Qi"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 63.")
             print("Pass:" + Pass)
         elif KariPass == 64:
-            Pass = hash_xx +"NL"
+            Pass = hash_xx +"2Ow"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 64.")
             print("Pass:" + Pass)
         elif KariPass == 65:
-            Pass = hash_xx+"PG"
+            Pass = hash_xx+"0Ja"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 65.")
             print("Pass:" + Pass)
         elif KariPass == 66:
-            Pass = hash_xx +"VI"
+            Pass = hash_xx +"5Ux"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 66.")
             print("Pass:" + Pass)
         elif KariPass == 67:
-            Pass = hash_xx+"UH"
+            Pass = hash_xx+"8Ho"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 67.")
             print("Pass:" + Pass)
         elif KariPass == 68:
-            Pass = hash_xx +"QF"
+            Pass = hash_xx +"4Fd"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 68.")
             print("Pass:" + Pass)
         elif KariPass == 69:
-            Pass = hash_xx+"RC"
+            Pass = hash_xx+"7Ed"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 69.")
             print("Pass:" + Pass)
         elif KariPass == 70:
-            Pass = hash_xx+"RC"
+            Pass = hash_xx+"1Wv"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 70.")
             print("Pass:" + Pass)
         elif KariPass == 71:
-            Pass = hash_xx+"JW"
+            Pass = hash_xx+"9Mo"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 71.")
             print("Pass:" + Pass)
         elif KariPass == 72:
-            Pass = hash_xx+"EL"
+            Pass = hash_xx+"3Si"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 72.")
             print("Pass:" + Pass)
         elif KariPass == 73:
-            Pass = hash_xx +"VQ"
+            Pass = hash_xx +"6Dp"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 73.")
             print("Pass:" + Pass)
         elif KariPass == 74:
-            Pass = hash_xx +"NK"
+            Pass = hash_xx +"2Fu"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 74.")
             print("Pass:" + Pass)
         elif KariPass == 75:
-            Pass = hash_xx +"QU"
+            Pass = hash_xx +"0Om"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 75.")
             print("Pass:" + Pass)
         elif KariPass == 76:
-            Pass = hash_xx+"XD"
+            Pass = hash_xx+"5Hr"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 76.")
             print("Pass:" + Pass)
         elif KariPass == 77:
-            Pass = hash_xx+"ME"
+            Pass = hash_xx+"8Lc"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 77.")
             print("Pass:" + Pass)
         elif KariPass == 78:
-            Pass = hash_xx +"HU"
+            Pass = hash_xx +"4Wx"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 78.")
             print("Pass:" + Pass)
         elif KariPass == 79:
-            Pass = hash_xx+"JA"
+            Pass = hash_xx+"7Ev"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 79.")
             print("Pass:" + Pass)
         elif KariPass == 80:
-            Pass = hash_xx+"KZ"
+            Pass = hash_xx+"1Kj"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 80.")
             print("Pass:" + Pass)
         elif KariPass == 81:
-            Pass = hash_xx +"EZ"
+            Pass = hash_xx +"9Bs"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 81.")
             print("Pass:" + Pass)
         elif KariPass == 82:
-            Pass = hash_xx +"WS"
+            Pass = hash_xx +"3ZM"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 82.")
             print("Pass:" + Pass)
         elif KariPass == 83:
-            Pass = hash_xx +"OV"
+            Pass = hash_xx +"6Qi"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 83.")
             print("Pass:" + Pass)
         elif KariPass == 84:
-            Pass = hash_xx +"TI"
+            Pass = hash_xx +"2Ow"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 84.")
             print("Pass:" + Pass)
         elif KariPass == 85:
-            Pass = hash_xx +"DV"
+            Pass = hash_xx +"Oja"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 85.")
             print("Pass:" + Pass)
         elif KariPass == 86:
-            Pass = hash_xx +"RW"
+            Pass = hash_xx +"5Ux"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 86.")
             print("Pass:" + Pass)
         elif KariPass == 87:
-            Pass = hash_xx +"UH"
+            Pass = hash_xx +"8Ho"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 87.")
             print("Pass:" + Pass)
         elif KariPass == 88:
-            Pass = hash_xx +"CL"
+            Pass = hash_xx +"4Fd"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 88.")
             print("Pass:" + Pass)
         elif KariPass == 89:
-            Pass = hash_xx+"WT"
+            Pass = hash_xx+"7Eb"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 89.")
             print("Pass:" + Pass)
         elif KariPass == 90:
-            Pass = hash_xx+"BH"
+            Pass = hash_xx+"1Wv"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 90.")
             print("Pass:" + Pass)
         elif KariPass == 91:
-            Pass = hash_xx +"CX"
+            Pass = hash_xx +"9Mo"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 91.")
             print("Pass:" + Pass)
         elif KariPass == 92:
-            Pass = hash_xx +"PO"
+            Pass = hash_xx +"3Si"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 92.")
             print("Pass:" + Pass)
         elif KariPass == 93:
-            Pass = hash_xx +"YG"
+            Pass = hash_xx +"6Dp"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 93.")
             print("Pass:" + Pass)
         elif KariPass == 94:
-            Pass = hash_xx +"WL"
+            Pass = hash_xx +"2Fu"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 94.")
             print("Pass:" + Pass)
         elif KariPass == 95:
-            Pass = hash_xx +"CC"
+            Pass = hash_xx +"0Rq"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 95.")
             print("Pass:" + Pass)
         elif KariPass == 96:
-            Pass = hash_xx +"BB"
+            Pass = hash_xx +"5Hr"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 96.")
             print("Pass:" + Pass)
         elif KariPass == 97:
-            Pass = hash_xx+"AA"
+            Pass = hash_xx +"8Lc"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 97.")
             print("Pass:" + Pass)
         elif KariPass == 98:
-            Pass = hash_xx +"IU"
+            Pass = hash_xx +"7Wx"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 98.")
             print("Pass:" + Pass)
         elif KariPass == 99:
-            Pass = hash_xx +"DZ"
+            Pass = hash_xx +"1Fd"
             Pass = shuffle_string(Pass)  # Passの値をシャッフル
             print("Number is 99.")
             print("Pass:" + Pass)
-        
+            
+        return Pass
