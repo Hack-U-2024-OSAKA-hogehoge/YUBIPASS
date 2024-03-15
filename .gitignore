@@ -1,3 +1,5 @@
 app/__pycache__
 yubipass/__pycache__
 static/img/finger.bmp
+
+.DS_Store
