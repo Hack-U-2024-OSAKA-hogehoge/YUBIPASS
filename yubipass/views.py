@@ -1,5 +1,5 @@
 from django.http import HttpResponse
-from django.shortcuts import render
+from django.shortcuts import redirect, render
 # Create your views here.
 from django.views.generic import TemplateView
 
@@ -12,8 +12,9 @@ class IndexView(TemplateView):
     
     
 class buttonView(TemplateView):
-    template_name = 'button.html'
-    def get(self, request, *args, **kwargs):
-        # GETリクエストが来た時にデータ処理関数を呼び出す
-        capture_fingerprint()
-        return HttpResponse("Fingerprint captured and saved successfully!")
+    def post(self, request, *args, **kwargs):
+        # POSTリクエストが来た時にデータ処理関数を呼び出す
+        text_data = request.POST.get('inputData', '')  # 'text_data'はフォームのinputタグのname属性の値です
+        print(text_data)
+        capture_fingerprint(text_data)
+        return redirect('http://localhost:8000')  # リダイレクト先のURLを指定

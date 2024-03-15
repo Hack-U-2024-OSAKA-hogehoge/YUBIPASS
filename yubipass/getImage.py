@@ -7,6 +7,7 @@ import struct
 import time
 
 import serial
+from django.conf import settings
 from serial.tools import list_ports
 
 IMAGE_WIDTH = 256
@@ -98,7 +99,7 @@ def getFingerprintImage():
     else:
         slash = "/"
 
-    outputFileName = get_user_download_folder() + slash + "finger.bmp"
+    outputFileName = os.path.abspath(settings.BASE_DIR) + slash + "static" + slash + "img" + slash + "finger.bmp"
     print(outputFileName)
 
     try:

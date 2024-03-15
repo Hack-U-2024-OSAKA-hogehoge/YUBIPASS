@@ -17,9 +17,12 @@
           <label for="inputData"><p class="information_pass">あなただけのパスワードを作成します。
             <p class="information_hard">ハードウェアを接続してください</label><br>
             <ul class="form_group">
-              <li><button  onclick="onConnectButtonClick()" class="connect">connect</button></li>
-              <li><input type="text" id="inputData" class="input_text" name="inputData"><li>
-              <li><img src="static/img/save_button.png" id="saveButton" class="send" alt="Save"></li>
+                <li><button  onclick="onConnectButtonClick()" class="connect">connect</button></li>
+              <form method="post" action="{% url 'button'%}">
+                {% csrf_token %}
+                <li><input type="text" id="inputData" class="input_text" name="inputData"><li>
+                <li><button type="submit" src="static/img/save_button.png" id="saveButton" class="send" alt="Save"></li>
+              </form>
             </ul>
             <br>
         </div>
