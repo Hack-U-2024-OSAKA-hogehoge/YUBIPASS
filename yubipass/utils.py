@@ -7,6 +7,6 @@ from .send_pass import send_pass
 
 
 def capture_fingerprint(url):
-    getFingerprintImage()
+    port=getFingerprintImage()
     pass_hash=get_hash(url)
-    send_pass(pass_hash)
+    send_pass(pass_hash,port)

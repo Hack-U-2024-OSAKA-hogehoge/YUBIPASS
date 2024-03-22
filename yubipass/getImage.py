@@ -158,7 +158,7 @@ def getFingerprintImage():
 
         print("[Image saved to {}]".format(outputFileName))
 
-        return True
+        return port
 
     except KeyboardInterrupt:
         return False
@@ -168,7 +168,7 @@ def getFingerprintImage():
         return False
 
     finally:
-        port.close()
+        # port.close()
         outFile.close()
 
 # if __name__ == "__main__":
