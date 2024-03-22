@@ -47,6 +47,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'yubipass.middleware.error_middleware.ErrorRedirectMiddleware',
 ]
 
 ROOT_URLCONF = 'app.urls'

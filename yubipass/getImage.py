@@ -106,6 +106,9 @@ def getFingerprintImage():
         port = serial.Serial(portNum, baudRate, timeout=0.1,
                              inter_byte_timeout=0.1)
         print("Port open success")
+        time.sleep(2)
+        
+        port.write(b'send_finger')
     except Exception as e:
         print('Port open failed:', e)
         return False
@@ -155,7 +158,7 @@ def getFingerprintImage():
 
         print("[Image saved to {}]".format(outputFileName))
 
-        return True
+        return port
 
     except KeyboardInterrupt:
         return False
@@ -165,7 +168,7 @@ def getFingerprintImage():
         return False
 
     finally:
-        port.close()
+        # port.close()
         outFile.close()
 
 # if __name__ == "__main__":
