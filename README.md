@@ -12,6 +12,8 @@
 
 ![HackU-2024-Osaka-4](https://github.com/Hack-U-2024-OSAKA-hogehoge/YUBIPASS/assets/114457271/e426ab1d-a667-4ded-aab1-8160c2d3def3)
 
+開発：shoga / .mealu / 羊羽 / Hiromu / ウェ久保 / 273*
+
 ## 🪬 開発環境・使用技術・ツール
 
 <H3>開発期間：14日間</H3>
