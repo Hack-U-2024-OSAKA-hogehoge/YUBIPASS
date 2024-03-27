@@ -1,14 +1,16 @@
-<p align="center">
+<div align="center">
 <img width="120" src="https://github.com/Hack-U-2024-OSAKA-hogehoge/YUBIPASS/assets/114457271/d753adb8-9b3a-4037-af55-0a406437f182">
-</p>
+</div>
 
 # YubiPass / 開太郎
 > [!NOTE]
 >「YubiPass」及び「開太郎」は，[Open Hack U 2024 OSAKA](https://hacku.yahoo.co.jp/hacku2024_osaka/)の優秀賞作品です．
 
-- YubiPassは指紋センサーを用いてユーザーごとに固有のウェブサイト登録用パスワードを生成するｗebアプリです．対応ハードである「開太郎」を併用します．
+**YubiPassは指紋センサーを用いてユーザーごとに固有のウェブサイト登録用パスワードを生成するｗebアプリです．対応ハードである「開太郎」を併用します．**
 
-https:// 
+サイトリンク：https:// 
+
+![HackU-2024-Osaka-4](https://github.com/Hack-U-2024-OSAKA-hogehoge/YUBIPASS/assets/114457271/e426ab1d-a667-4ded-aab1-8160c2d3def3)
 
 ## 🪬 開発環境・使用技術・ツール
 
@@ -18,13 +20,13 @@ https://
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,django"/>
 </a>
-<h3>環境，コード管理
-<a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=github,git,vscode"/>
-</a>
 <h3>ハードウェア
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=cpp,arduino"/>
+</a>
+<h3>環境，コード管理
+<a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=github,git,vscode"/>
 </a>
 <h3>UI・ロゴ
 <a href="https://skillicons.dev">
@@ -45,11 +47,10 @@ https://
 「YubiPass」にアクセスして生成したいパスワードのサイトURLを入力します．
 「開太郎」の指紋センサーから，指紋を入力します．
 
-<img style="width:400px" src=""><img style="width:400px" src="">
-
 ### 2. 指紋入力
 
 <img src="https://github.com/Hack-U-2024-OSAKA-hogehoge/YUBIPASS/assets/114457271/3bd47469-b047-4037-b9ee-76cef42397d2">
+<img width="100" src=https://github.com/Hack-U-2024-OSAKA-hogehoge/YUBIPASS/assets/114457271/6c87c2e6-54fc-44e8-b275-e5eb5f00557b">
 
 サイトのconnectボタンを押すと，「開太郎」の指紋センサが緑色に発光します．
 指を乗せて指紋を検出しましょう．
@@ -60,7 +61,15 @@ https://
 
 「開太郎」のスクリーンにパスワードが出力されます．サイトに入力してパスワードを保存しましょう．
 
+## 🪬 特徴
 
+## 🪬 工夫
+
+## 🪬 アルゴリズム
+
+- パスワードを生成するフローと，指紋の特徴量を抽出するアルゴリズムです．
+
+<img style="width:500px" src="https://github.com/Hack-U-2024-OSAKA-hogehoge/YUBIPASS/assets/114457271/1cec216f-ff12-4dd7-8e86-7b5e3a145b2a"><img style="width:500px" src="https://github.com/Hack-U-2024-OSAKA-hogehoge/YUBIPASS/assets/114457271/6a322dfe-1d70-41e7-9b31-45a1afc0da3d">
 
 ## 🪬 免責事項
 
