@@ -83,3 +83,9 @@
 
 > [!CAUTION]
 この作成物および同梱物を使用したことによって生じたすべての障害・損害・不具合等に関しては，私と私の関係者および私の所属するいかなる団体・組織とも，一切の責任を負いません．各自の責任においてご使用ください．
+
+<details>
+  <summary>bonus</summary>
+<img width="1536" height="1024" alt="Avengers" src="https://github.com/user-attachments/assets/999207eb-96c2-4285-a785-bc18555734d9" />
+
+</details>
